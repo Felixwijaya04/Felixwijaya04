@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td valign="text-top"><b>Pong Virus</b> is inspired by the classic Pong Game in 1972 by Atari. In this game, you are supposed to protect your computer from the Pong Virus or else the system will collapsed. Protect it like your own computer!</td>
-    <td valign="text-top"><b>Warp'er</b> is TBA</td>
+    <td valign="text-top"><b>Warp'er</b> is a 2D platformer puzzle game. This game includes 1 tutorial level and 5 other levels. Player must solve any puzzles in each level to deliver their package to the final destination.</td>
   </tr>
   <tr>
     <td align="center"><a href="https://felixde-cat.itch.io/pong-virus">Itch Page</td>
