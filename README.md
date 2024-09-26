@@ -3,26 +3,18 @@
 <table align="center">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Project-Valence">Project Valence</a></th>
+      <th width="50%" align="center">Another Choice</a></th>
       <th width="50%" align="center">Chauffeur</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/unity%20TG10%202024-05-27%2023-41-48%20(3).gif"/></td>
+      <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Gif_Another_Choice%20(1).gif"/></td>
       <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Chauffeur%20video.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top"><b>Project Valence</b> is a 2D shooter platformer game where you're infiltrating a mutant animal research lab. Advance further down the laboratory, and neutralize multiple mutants along the way with different weapons you can purchase by defeating mutants.</td>
+      <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game tells a breathtaking story about a woman pursuing a career as a news anchor. This game also teach players how to learn braille. Contributed in making the game concept and the level design in unity.</td>
       <td valign="text-top"><b>Chauffeur </b>is a photorealistic driving simulation game developed in Unreal Engine 5. Player plays as a personal driver and drive people to their destination in time and comfort. Developed the source code and level design in Unreal engine 5 </td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
-      <td align="center">Still in development</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
-      </a>
     </tr>
   </tbody>
 </table>
