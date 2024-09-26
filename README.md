@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://bgdc.itch.io/project-valence">Itch Page</td>
-      </a>
+      <td align="center">Still in development</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Felixwijaya04/Project-Valence"><b>GitHub Page</b></td>
