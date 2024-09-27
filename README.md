@@ -15,7 +15,7 @@ Hi, I'm Felix 👋
     </tr>
     <tr>
       <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game tells a breathtaking story about a woman pursuing a career as a news anchor. This game also teach players how to learn braille. Contributed in making the game concept and the level design in unity.</td>
-      <td valign="text-top"><b>Chauffeur </b>is a photorealistic driving simulation game developed in Unreal Engine 5. Player plays as a personal driver and drive people to their destination in time and comfort. Developed the source code and level design in Unreal engine 5 </td>
+      <td valign="text-top"><b>Chauffeur </b>is a photorealistic driving simulation game developed in Unreal Engine 5. Player plays as a personal driver and drive people to their destination in time and comfort. Developed the source code and level design in Unreal engine 5. This game is still in development.</td>
     </tr>
   </tbody>
 </table>
