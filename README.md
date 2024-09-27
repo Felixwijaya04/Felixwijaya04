@@ -11,7 +11,7 @@ Hi, I'm Felix 👋
   <tbody>
     <tr>
       <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Gif_Another_Choice%20(1).gif"/></td>
-      <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Chauffeur%20video.gif"/></td>
+      <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Chauffeur%20video%20small.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game tells a breathtaking story about a woman pursuing a career as a news anchor. This game also teach players how to learn braille. Contributed in making the game concept and the level design in unity.</td>
