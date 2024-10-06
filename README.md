@@ -14,7 +14,7 @@ Hi, I'm Felix 👋
       <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Chauffeur%20video.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game tells a breathtaking story about a woman pursuing a career as a news anchor. This game also teach players how to learn braille. Contributed in making the game concept and the level design in unity.</td>
+      <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game was built in the High Definition Render Pipepline (HDRP), ensuring the highest graphic quality our game can provide. Our game also use scriptable objects to store and alter some of the game data such as lighting data and day cycle dynamically.</td>
       <td valign="text-top"><b>Chauffeur </b>is a photorealistic driving simulation game developed in Unreal Engine 5. This game use lumen lighting system and nanite technologies as the environment aspects. All vehicle physics were simulated using unreal chaos vehicles plugin. This game is still in early development.</td>
     </tr>
   </tbody>
