@@ -36,7 +36,7 @@ Hi, I'm Felix 👋
   </tr>
   <tr>
     <td valign="text-top"><b>Pong Virus</b> is inspired by the classic Pong Game in 1972 by Atari. In this game, you are supposed to protect your computer from the Pong Virus or else the system will collapsed. Protect it like your own computer!</td>
-    <td valign="text-top"><b>Warp'er</b> is a 2D platformer puzzle game. This game includes 1 tutorial level and 5 other levels. Player must solve any puzzles in each level to deliver their package to the final destination.</td>
+    <td valign="text-top"><b>Warp'er</b> is a 2D platformer puzzle game. The game was built in Universal Render Pipeline (URP) and the level design was created with unity tilemap system. I also create a parallax background effect to add an illusion of depth in a 2D scene.</td>
   </tr>
   <tr>
     <td align="center"><a href="https://felixde-cat.itch.io/pong-virus">Itch Page</td>
