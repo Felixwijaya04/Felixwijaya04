@@ -17,6 +17,10 @@ Hi, I'm Felix 👋
       <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game was built in the High Definition Render Pipepline (HDRP), ensuring the highest graphic quality our game can provide. Our game also use scriptable objects to store and alter some of the game data such as lighting data and day cycle dynamically.</td>
       <td valign="text-top"><b>Chauffeur </b>is a photorealistic driving simulation game developed in Unreal Engine 5. This game use lumen lighting system and nanite technologies as the environment aspects. All vehicle physics were simulated using unreal chaos vehicles plugin. This game is still in early development.</td>
     </tr>
+    <tr>
+    <td align="center"><a href=""><b>GitHub Page</b></td>
+    <td align="center"><a href="https://github.com/Felixwijaya04/Chauffeur">GitHub page</td>
+  </tr>
   </tbody>
 </table>
         
@@ -28,6 +32,7 @@ Hi, I'm Felix 👋
     <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Pong-Virus">Pong Virus</a></th>
     <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Warp-er">Warp'er</a></th>
   </tr>
+  
 </thead>
 <tbody>
   <tr>
