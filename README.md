@@ -29,8 +29,8 @@ Hi, I'm Felix 👋
 <table align="center">
 <thead>
   <tr>
-    <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Pong-Virus">Pong Virus</a></th>
-    <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Warp-er">Warp'er</a></th>
+    <th width="50%" align="center">Pong Virus</th>
+    <th width="50%" align="center">Warp'er</th>
   </tr>
   
 </thead>
