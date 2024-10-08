@@ -29,26 +29,26 @@ Hi, I'm Felix 👋
 <table align="center">
 <thead>
   <tr>
-    <th width="50%" align="center">Pong Virus</th>
+    <th width="50%" align="center">Autofarm</th>
     <th width="50%" align="center">Warp'er</th>
   </tr>
   
 </thead>
 <tbody>
   <tr>
-    <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/PONG2D%202024-05-28%2000-24-56.gif"/></td>
+    <td align="center"><img src="https://github.com/Felixwijaya04/Autofarm_readme/blob/main/images/Gif_Autofarm.gif"/></td>
     <td><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Warper%20Game%202024-06-22%2007-00-34.gif"/></td>
   </tr>
   <tr>
-    <td valign="text-top"><b>Pong Virus</b> is inspired by the classic Pong Game in 1972 by Atari. In this game, you are supposed to protect your computer from the Pong Virus or else the system will collapsed. I create an enemy bot as a single player feature by detecting if the ball is within the bot range.</td>
+    <td valign="text-top"><b>Autofarm</b> is an educational puzzle game that teach players how to arrange a pseudocode. Each level has a different objective and difficulty. The game was developed using singleton code architecture and has a save system using player prefs.</td>
     <td valign="text-top"><b>Warp'er</b> is a 2D platformer puzzle game. The game was built in Universal Render Pipeline (URP) and the level design was created with unity tilemap system. I also create a parallax background effect to add an illusion of depth in a 2D scene.</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://felixde-cat.itch.io/pong-virus">Itch Page</td>
+    <td align="center"><a href="https://felixde-cat.itch.io/autofarm">Itch Page</td>
     <td align="center"><a href="https://felixde-cat.itch.io/warper">Itch Page</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Felixwijaya04/Pong-Virus"><b>GitHub Page</b></td>
+    <td align="center"><a href="https://github.com/Felixwijaya04/Autofarm_readme/tree/main"><b>GitHub Page</b></td>
     <td align="center"><a href="https://github.com/Felixwijaya04/Warp-er">GitHub page</td>
   </tr>
 </tbody>
