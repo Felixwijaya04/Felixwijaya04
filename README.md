@@ -40,7 +40,7 @@ Hi, I'm Felix 👋
     <td><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Warper%20Game%202024-06-22%2007-00-34.gif"/></td>
   </tr>
   <tr>
-    <td valign="text-top"><b>Autofarm</b> is an educational puzzle game that teach players how to arrange a pseudocode. Each level has a different objective and difficulty. The game was developed using singleton code architecture and has a save system using player prefs.</td>
+    <td valign="text-top"><b>Autofarm</b> is an educational puzzle game that teach players how to arrange a pseudocode. Each level has a different objective and difficulty. The game has a save system using player prefs.</td>
     <td valign="text-top"><b>Warp'er</b> is a 2D platformer puzzle game. The game was built in Universal Render Pipeline (URP) and the level design was created with unity tilemap system. I also create a parallax background effect to add an illusion of depth in a 2D scene.</td>
   </tr>
   <tr>
