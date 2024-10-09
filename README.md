@@ -48,7 +48,7 @@ Hi, I'm Felix 👋
     <td align="center"><a href="https://felixde-cat.itch.io/warper">Itch Page</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Felixwijaya04/Autofarm_readme/tree/main"><b>GitHub Page</b></td>
+    <td align="center"><a href="https://github.com/Felixwijaya04/Autofarm_readme"><b>GitHub Page</b></td>
     <td align="center"><a href="https://github.com/Felixwijaya04/Warp-er">GitHub page</td>
   </tr>
 </tbody>
