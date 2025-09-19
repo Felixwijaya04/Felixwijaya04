@@ -57,7 +57,8 @@ Hi, I'm Felix 👋
         
 ### &nbsp; 🕵🏻 About Me
 
-&nbsp;&nbsp;👋 Hi! I'm Felix Wijaya <br>&nbsp;&nbsp;  I'm an undergraduate student majoring in Game Development, with a keen interest in game programming and level designer. <br>&nbsp;&nbsp; I specialize in C# and have experience with C and Python. I primarily use Unity or Unreal Engine to develop some of my game projects.<br>&nbsp;&nbsp; Currently, I'm learning to make 3D games with Unreal Engine 5, so far i have been enjoying making 3D environment in UE5.<br><br>&nbsp;&nbsp;  Outside of coding and game development, I enjoy searching for new ideas to enhance my level design skills and playing new games.<br><br>
+&nbsp;&nbsp;👋 Hi! I'm Felix Wijaya <br>&nbsp;&nbsp;  I am a Computer Science undergraduate specializing in game development with a passion for creating immersive digital experiences. <br>&nbsp;&nbsp; I have over a year of hands-on experience with the Unity Engine and am currently expanding my expertise to the Unreal Engine.<br>&nbsp;&nbsp; Proficient in C/C++ and C#, I excel at collaborative development in team environments.<br><br>&nbsp;&nbsp;  Outside of coding and game development, I enjoy searching for new ideas to enhance my level design skills and playing new games.<br><br>
+  
 
 ### &nbsp; 🏆 GitHub Statistics
 
