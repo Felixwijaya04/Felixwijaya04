@@ -1,7 +1,7 @@
 # Hi there, I'm Felix Wijaya! 👋
 ### 🕹️ Jr. Game Developer | Gameplay Programmer | UI Programmer
 
-## 🧑‍💻 About Me
+## <a name="about-me"></a>🧑‍💻 About Me
 I am a Junior Game Developer with 2 years of combined experience across Unity and Unreal Engine 5. In my current role at Iterco, I work within large codebases to engineer networked multiplayer mechanics, custom Blueprint editor tools, and core base-building systems. I specialize in keeping code architectures clean and scalable using Data Tables and event-driven systems.
 
 Other than that, i love playing new games at my free time. I'm always updated with new trends of gaming experiences, gaming tech and popular titles.
@@ -11,12 +11,11 @@ Other than that, i love playing new games at my free time. I'm always updated wi
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/felix-wijaya-ab1b2a220/?skipRedirect=true) | [Email](mailto:felixwijaya2004@email.com)
 ---
 
-| [🎮 Unity Projects](#-unity-projects) | [🔥 Unreal Engine Projects](#-unreal-engine-projects) | [📐 Game Designs](#-game-designs) |
+| [🎮 Unity Projects](#unity-section) | [🔥 Unreal Engine Projects](#unreal-section) | [📐 Game Designs](#design-section) |
 | :---: | :---: | :---: |
-
 ---
 
-## 🎮 Unity Projects <sub><sup>[🔼 Top](#-about-me) \| [🔽 Next Section](#-unreal-engine-projects)</sup></sub>
+## <a name="unity-section"></a>🎮 Unity Projects <sub><sup>[🔼 Top](#about-me) \| [🔽 Next Section](#unreal-section)</sup></sub>
 
 <table width="100%">
   <tr>
@@ -43,7 +42,7 @@ Other than that, i love playing new games at my free time. I'm always updated wi
 
 ---
 
-## 🔥 Unreal Engine Projects <sub><sup>[🔼 Prev](#-unity-projects) \| [🔽 Next Section](#-game-designs)</sup></sub>
+## <a name="unreal-section"></a>🔥 Unreal Engine Projects <sub><sup>[🔼 Prev](#unity-section) \| [🔽 Next Section](#design-section)</sup></sub>
 
 <table width="100%">
   <tr>
@@ -70,7 +69,7 @@ Other than that, i love playing new games at my free time. I'm always updated wi
 
 ---
 
-## 📐 Game Designs <sub><sup>[🔼 Prev](#-unreal-engine-projects) \| [🔝 Top](#-about-me)</sup></sub>
+## <a name="design-section"></a>📐 Game Designs <sub><sup>[🔼 Prev](#unreal-section) \| [🔝 Top](#about-me)</sup></sub>
 
 <table width="100%">
   <tr>
