@@ -1,79 +1,95 @@
-Hi, I'm Felix 👋
+# Hi there, I'm Felix Wijaya! 👋
+### 🕹️ Jr. Game Developer | Gameplay Programmer | UI Programmer
+
+## 🧑‍💻 About Me
+I am a Junior Game Developer with 2 years of combined experience across Unity and Unreal Engine 5. In my current role at Iterco, I work within large codebases to engineer networked multiplayer mechanics, custom Blueprint editor tools, and core base-building systems. I specialize in keeping code architectures clean and scalable using Data Tables and event-driven systems.
+
+Other than that, i love playing new games at my free time. I'm always updated with new trends of gaming experiences, gaming tech and popular titles.
+
+- 🚀 **Current Focus:** Jr. Unreal Game Dev @Iterco and deepen expertise as UI programmer
+- 💻 **Programming Philosophy:** Designing highly scalable, decoupled architectures driven by flexible data systems to enable rapid iteration.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/felix-wijaya-ab1b2a220/?skipRedirect=true) | [Email](mailto:felixwijaya2004@email.com)
 ---
-### &nbsp; ⭐My Favorite Repo
-<table align="center">
-  <thead>
-    <tr>
-      <th width="50%" align="center">Another Choice</a></th>
-      <th width="50%" align="center">Chauffeur</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Gif_Another_Choice%20(1).gif"/></td>
-      <td align="center"><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Chauffeur%20video.gif"/></td>
-    </tr>
-    <tr>
-      <td valign="text-top"><b>Another Choice </b>is a 2.5D visual novel game. This game was built in the High Definition Render Pipepline (HDRP), ensuring the highest graphic quality our game can provide. Our game also use scriptable objects to store and alter some of the game data such as lighting data and day cycle dynamically.</td>
-      <td valign="text-top"><b>Chauffeur </b>is a photorealistic driving simulation game developed in Unreal Engine 5. This game use lumen lighting system and nanite technologies as the environment aspects. All vehicle physics were simulated using unreal chaos vehicles plugin. This game is still in early development.</td>
-    </tr>
-    <tr>
-    <td align="center"><a href="https://felixde-cat.itch.io/another-choice">Itch Page</td>
-    </tr>
-    <tr>
-    <td align="center"><a href="https://github.com/Felixwijaya04/AnotherChoice_readme">Github page</td>
-    <td align="center"><a href="https://github.com/Felixwijaya04/Chauffeur">GitHub page</td>
+
+| [🎮 Unity Projects](#-unity-projects) | [🔥 Unreal Engine Projects](#-unreal-engine-projects) | [📐 Game Designs](#-game-designs) |
+| :---: | :---: | :---: |
+
+---
+
+## 🎮 Unity Projects <sub><sup>[🔼 Top](#-about-me) \| [🔽 Next Section](#-unreal-engine-projects)</sup></sub>
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="left"><a href="https://felixde-cat.itch.io/another-choice">Another Choice <img src="https://img.shields.io/badge/-%23FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="14" style="vertical-align: middle; margin-left: 4px;" /></a></th>
+    <th width="50%" align="left"><a href="https://felixde-cat.itch.io/autofarm">Autofarm <img src="https://img.shields.io/badge/-%23FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="14" style="vertical-align: middle; margin-left: 4px;" /></a></th>
   </tr>
-  </tbody>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Gif_Another_Choice%20(1).gif" width="100%" alt="Project 1 GIF"/><br><br>
+      <b>Description:</b><br>
+      Another Choice is a 2.5D visual novel game. This game was built in the High Definition Render Pipeline (HDRP), ensuring the highest graphic quality our game can provide. Our game also use scriptable objects to store and alter some of the game data such as lighting data and day cycle dynamically.
+    </td>
+    <td valign="top">
+      <img src="https://github.com/Felixwijaya04/Autofarm_readme/blob/main/images/Gif_Autofarm.gif" width="100%" alt="Project 2 GIF"/><br><br>
+      <b>Description:</b><br>
+      Autofarm is an educational puzzle game that teach players how to arrange a pseudocode. Each level has a different objective and difficulty. The game has a custom made compiler to verify answers and a save system using player prefs.
+    </td>
+  </tr>
+  <tr>
+    <td>🔗 <a href="https://github.com/Felixwijaya04/AnotherChoice_readme"><b>View ReadMe 🛠️</b></a></td>
+    <td>🔗 <a href="https://github.com/Felixwijaya04/Autofarm"><b>View Repository 🛠️</b></a></td>
+  </tr>
 </table>
-        
-<br/>
 
-<table align="center">
-<thead>
+---
+
+## 🔥 Unreal Engine Projects <sub><sup>[🔼 Prev](#-unity-projects) \| [🔽 Next Section](#-game-designs)</sup></sub>
+
+<table width="100%">
   <tr>
-    <th width="50%" align="center">Autofarm</th>
-    <th width="50%" align="center">Warp'er</th>
-  </tr>
-  
-</thead>
-<tbody>
-  <tr>
-    <td align="center"><img src="https://github.com/Felixwijaya04/Autofarm_readme/blob/main/images/Gif_Autofarm.gif"/></td>
-    <td><img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Warper%20Game%202024-06-22%2007-00-34.gif"/></td>
+    <th width="50%" align="left"><b>Chauffeur</b></th>
+    <th width="50%" align="left"><b>Battle Blaster</b></th>
   </tr>
   <tr>
-    <td valign="text-top"><b>Autofarm</b> is an educational puzzle game that teach players how to arrange a pseudocode. Each level has a different objective and difficulty. The game has a custom made compiler to verify answers and a save system using player prefs.</td>
-    <td valign="text-top"><b>Warp'er</b> is a 2D platformer puzzle game. The game was built in Universal Render Pipeline (URP) and the level design was created with unity tilemap system. I also create a parallax background effect to add an illusion of depth in a 2D scene.</td>
+    <td valign="top">
+      <img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Chauffeur%20video.gif" width="100%" alt="Project 3 GIF"/><br><br>
+      <b>Description:</b><br>
+      Chauffeur is a photorealistic driving simulation game developed in Unreal Engine 5. This game use lumen lighting system and nanite technologies as the environment aspects. All vehicle physics were simulated using unreal chaos vehicles plugin. This game is still in early development.
+    </td>
+    <td valign="top">
+      <img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/BattleBlaster_1.gif" width="100%" alt="Project 4 GIF"/><br><br>
+      <b>Description:</b><br>
+      BattleBlaster is a top-down tank shooter game built entirely from scratch using Unreal Engine and C++. This project serves as a foundational milestone in mastering game development, user interface design, and coding practices within the Unreal Engine ecosystem.
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://felixde-cat.itch.io/autofarm">Itch Page</td>
-    <td align="center"><a href="https://felixde-cat.itch.io/warper">Itch Page</td>
+    <td>🔗 <a href="https://github.com/Felixwijaya04/Chauffeur"><b>View ReadMe 🛠️</b></a></td>
+    <td>🔗 <a href="https://github.com/Felixwijaya04/BattleBlaster"><b>View Repository 🛠️</b></a></td>
+  </tr>
+</table>
+
+---
+
+## 📐 Game Designs <sub><sup>[🔼 Prev](#-unreal-engine-projects) \| [🔝 Top](#-about-me)</sup></sub>
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="left"><a href="https://felixde-cat.itch.io/hanako-a-new-life">Hanako: A New Life <img src="https://img.shields.io/badge/-%23FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="14" style="vertical-align: middle; margin-left: 4px;" /></a></th>
+    <th width="50%" align="left"><b></b></th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Felixwijaya04/Autofarm_readme"><b>GitHub Page</b></td>
-    <td align="center"><a href="https://github.com/Felixwijaya04/Warp-er">GitHub page</td>
+    <td valign="top">
+      <img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/HANL_gif_gameplay1.gif" width="100%" alt="Design 1 Preview"/><br><br>
+      <b>Description:</b><br>
+      Hanako: A New Life is a braille-type racing game. In this project, I worked as the game designer who created the core concepts, game mechanics, and level difficulties. Additionally, I served as the visual artist for the project. All pixel art and animations were created using Aseprite.
+    </td>
+    <td valign="top">
   </tr>
-</tbody>
-</table>   
+</table>
 
-        
-### &nbsp; 🕵🏻 About Me
+---
 
-&nbsp;&nbsp;👋 Hi! I'm Felix Wijaya <br>&nbsp;&nbsp;  I am a Computer Science undergraduate specializing in game development with a passion for creating immersive digital experiences. <br>&nbsp;&nbsp; I have over a year of hands-on experience with the Unity Engine and am currently expanding my expertise to the Unreal Engine.<br>&nbsp;&nbsp; Proficient in C/C++ and C#, I excel at collaborative development in team environments.<br><br>&nbsp;&nbsp;  Outside of coding and game development, I enjoy searching for new ideas to enhance my level design skills and playing new games.<br><br>
-  
-
-### &nbsp; 🏆 GitHub Statistics
-
-  <br/>
-    <p align="center">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Felixwijaya04&theme=nightowl&hide_border=true" />
-    </p>
-    <p align="center">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Felixwijaya04&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felixwijaya04&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    </p>
-
-
-
-
-
+## 🛠️ Tech Stack & Tools
+- **Languages:** C#, C++, Blueprints
+- **Engines:** Unity, Unreal Engine 5
+- **Design Tools:** Figma, Miro, Notion
