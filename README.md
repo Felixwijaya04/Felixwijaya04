@@ -6,7 +6,7 @@ I am a Junior Game Developer with 2 years of combined experience across Unity an
 
 Other than that, i love playing new games at my free time. I'm always updated with new trends of gaming experiences, gaming tech and popular titles. My favorite game is Persona 3 Reload!
 
-- 🚀 **Current Focus:** Jr. Unreal Game Dev @Iterco and deepen expertise as UI programmer
+- 🚀 **Current Focus:** Working on side projects and deepen expertise as UI programmer
 - 💻 **Programming Philosophy:** Designing highly scalable, decoupled architectures driven by flexible data systems to enable rapid iteration.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/felix-wijaya-ab1b2a220/?skipRedirect=true) | [Email](mailto:felixwijaya2004@email.com)
 ---
