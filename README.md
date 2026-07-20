@@ -2,9 +2,9 @@
 ### 🕹️ Jr. Game Developer | Gameplay Programmer | UI Programmer
 
 ## <a name="about-me"></a>🧑‍💻 About Me
-I am a Junior Game Developer with 2 years of combined experience across Unity and Unreal Engine 5. In my current role at Iterco, I work within large codebases to engineer networked multiplayer mechanics, custom Blueprint editor tools, and core base-building systems. I specialize in keeping code architectures clean and scalable using Data Tables and event-driven systems.
+I am a Junior Game Developer with 2 years of combined experience across Unity and Unreal Engine 5. In my previous role at Iterco, I work within large codebases to engineer networked multiplayer mechanics, custom Blueprint editor tools, and core base-building systems. I specialize in keeping code architectures clean and scalable using Data Tables and event-driven systems.
 
-Other than that, i love playing new games at my free time. I'm always updated with new trends of gaming experiences, gaming tech and popular titles.
+Other than that, i love playing new games at my free time. I'm always updated with new trends of gaming experiences, gaming tech and popular titles. My favorite game is Persona 3 Reload!
 
 - 🚀 **Current Focus:** Jr. Unreal Game Dev @Iterco and deepen expertise as UI programmer
 - 💻 **Programming Philosophy:** Designing highly scalable, decoupled architectures driven by flexible data systems to enable rapid iteration.
