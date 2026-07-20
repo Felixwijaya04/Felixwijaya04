@@ -65,6 +65,18 @@ Other than that, i love playing new games at my free time. I'm always updated wi
     <td>🔗 <a href="https://github.com/Felixwijaya04/Chauffeur"><b>View ReadMe 🛠️</b></a></td>
     <td>🔗 <a href="https://github.com/Felixwijaya04/BattleBlaster"><b>View Repository 🛠️</b></a></td>
   </tr>
+ <tr>
+    <th width="50%" align="left"><b>Custom Building Editor Tool</b></th>
+    <th width="50%" align="left"><b></b></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/Felixwijaya04/Felixwijaya04/blob/main/images/Hex_BuildingEditorTool_Prototype.gif" width="100%" alt="Design 1 Preview"/><br><br>
+      <b>Description:</b><br>
+      Developed during my time at Iterco, this custom Unreal Engine editor utility was built with the Scriptable Tools Framework to streamline level design workflows. It allows game designers to combine modular assets into a single Blueprint asset for instant level placement or runtime gameplay. Features real-time grid snapping, object rotation, dynamic height modification, and in-editor obstacle detection directly within the viewport.
+    </td>
+    <td valign="top">
+  </tr>
 </table>
 
 ---
